@@ -1,0 +1,11 @@
+npm install -g express-generator //to install express generator
+express       //to use express generator
+express -h //for help
+
+npm install   //to install all package.json dependencies
+npm start     //to run server
+
+///
+
+https://docs.c9.io/docs/setup-a-database  //this is to setup database on c9
+///
